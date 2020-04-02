@@ -1,5 +1,5 @@
 # Guessanumber
-Guess a random number from 1 to 1,000
+#Guess a random number from 1 to 1,000
 
 import random
 target=random.randint(1,1000)
